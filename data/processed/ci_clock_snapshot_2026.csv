@@ -1,0 +1,883 @@
+code_pays,pays,annee,age_valeur,genre,sector,sector_group,population,tranche_age
+CIV,Côte d'Ivoire,2026,15,female,Agriculture; forestry and fishing,Agriculture,49721,15-24
+CIV,Côte d'Ivoire,2026,15,female,"Arts, entertainment and recreation",Services,156,15-24
+CIV,Côte d'Ivoire,2026,15,female,Construction,Industry,326,15-24
+CIV,Côte d'Ivoire,2026,15,female,Education,Services,237,15-24
+CIV,Côte d'Ivoire,2026,15,female,"Electricity; gas, steam and air conditioning supply",Industry,0,15-24
+CIV,Côte d'Ivoire,2026,15,female,Financial and insurance activities,Services,296,15-24
+CIV,Côte d'Ivoire,2026,15,female,Human health and social work activities,Services,902,15-24
+CIV,Côte d'Ivoire,2026,15,female,Information and communication,Services,183,15-24
+CIV,Côte d'Ivoire,2026,15,female,Manufacturing,Industry,15772,15-24
+CIV,Côte d'Ivoire,2026,15,female,Mining and quarrying,Industry,105,15-24
+CIV,Côte d'Ivoire,2026,15,female,Other service activities,Services,7404,15-24
+CIV,Côte d'Ivoire,2026,15,female,"Professional, scientific and technical activities",Services,55,15-24
+CIV,Côte d'Ivoire,2026,15,female,Public administration and defence; compulsory social security,Services,247,15-24
+CIV,Côte d'Ivoire,2026,15,female,Real estate activities,Services,154,15-24
+CIV,Côte d'Ivoire,2026,15,female,Transportation and storage,Services,181,15-24
+CIV,Côte d'Ivoire,2026,15,female,"Water supply; sewerage, waste management and remediation activities",Industry,46,15-24
+CIV,Côte d'Ivoire,2026,15,female,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,20508,15-24
+CIV,Côte d'Ivoire,2026,15,female,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,8652,15-24
+CIV,Côte d'Ivoire,2026,15,female,Administrative and support service activities,Services,171,15-24
+CIV,Côte d'Ivoire,2026,15,female,Accommodation and food service activities,Services,5715,15-24
+CIV,Côte d'Ivoire,2026,15,female,Activities of extraterritorial organizations and bodies,Services,80,15-24
+CIV,Côte d'Ivoire,2026,16,female,Accommodation and food service activities,Services,5585,15-24
+CIV,Côte d'Ivoire,2026,16,female,Activities of extraterritorial organizations and bodies,Services,78,15-24
+CIV,Côte d'Ivoire,2026,16,female,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,8453,15-24
+CIV,Côte d'Ivoire,2026,16,female,Administrative and support service activities,Services,168,15-24
+CIV,Côte d'Ivoire,2026,16,female,Agriculture; forestry and fishing,Agriculture,48576,15-24
+CIV,Côte d'Ivoire,2026,16,female,"Arts, entertainment and recreation",Services,153,15-24
+CIV,Côte d'Ivoire,2026,16,female,Construction,Industry,316,15-24
+CIV,Côte d'Ivoire,2026,16,female,Education,Services,230,15-24
+CIV,Côte d'Ivoire,2026,16,female,"Electricity; gas, steam and air conditioning supply",Industry,0,15-24
+CIV,Côte d'Ivoire,2026,16,female,Financial and insurance activities,Services,289,15-24
+CIV,Côte d'Ivoire,2026,16,female,Human health and social work activities,Services,881,15-24
+CIV,Côte d'Ivoire,2026,16,female,Information and communication,Services,179,15-24
+CIV,Côte d'Ivoire,2026,16,female,Manufacturing,Industry,15409,15-24
+CIV,Côte d'Ivoire,2026,16,female,Mining and quarrying,Industry,103,15-24
+CIV,Côte d'Ivoire,2026,16,female,Other service activities,Services,7233,15-24
+CIV,Côte d'Ivoire,2026,16,female,"Professional, scientific and technical activities",Services,54,15-24
+CIV,Côte d'Ivoire,2026,16,female,Public administration and defence; compulsory social security,Services,242,15-24
+CIV,Côte d'Ivoire,2026,16,female,Real estate activities,Services,150,15-24
+CIV,Côte d'Ivoire,2026,16,female,Transportation and storage,Services,176,15-24
+CIV,Côte d'Ivoire,2026,16,female,"Water supply; sewerage, waste management and remediation activities",Industry,45,15-24
+CIV,Côte d'Ivoire,2026,16,female,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,20035,15-24
+CIV,Côte d'Ivoire,2026,17,female,Accommodation and food service activities,Services,5450,15-24
+CIV,Côte d'Ivoire,2026,17,female,Activities of extraterritorial organizations and bodies,Services,77,15-24
+CIV,Côte d'Ivoire,2026,17,female,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,8248,15-24
+CIV,Côte d'Ivoire,2026,17,female,Administrative and support service activities,Services,163,15-24
+CIV,Côte d'Ivoire,2026,17,female,Agriculture; forestry and fishing,Agriculture,47406,15-24
+CIV,Côte d'Ivoire,2026,17,female,"Arts, entertainment and recreation",Services,150,15-24
+CIV,Côte d'Ivoire,2026,17,female,Construction,Industry,310,15-24
+CIV,Côte d'Ivoire,2026,17,female,Education,Services,226,15-24
+CIV,Côte d'Ivoire,2026,17,female,"Electricity; gas, steam and air conditioning supply",Industry,0,15-24
+CIV,Côte d'Ivoire,2026,17,female,Financial and insurance activities,Services,283,15-24
+CIV,Côte d'Ivoire,2026,17,female,Human health and social work activities,Services,860,15-24
+CIV,Côte d'Ivoire,2026,17,female,Information and communication,Services,175,15-24
+CIV,Côte d'Ivoire,2026,17,female,Manufacturing,Industry,15038,15-24
+CIV,Côte d'Ivoire,2026,17,female,Mining and quarrying,Industry,101,15-24
+CIV,Côte d'Ivoire,2026,17,female,Other service activities,Services,7059,15-24
+CIV,Côte d'Ivoire,2026,17,female,"Professional, scientific and technical activities",Services,52,15-24
+CIV,Côte d'Ivoire,2026,17,female,Public administration and defence; compulsory social security,Services,235,15-24
+CIV,Côte d'Ivoire,2026,17,female,Real estate activities,Services,147,15-24
+CIV,Côte d'Ivoire,2026,17,female,Transportation and storage,Services,173,15-24
+CIV,Côte d'Ivoire,2026,17,female,"Water supply; sewerage, waste management and remediation activities",Industry,44,15-24
+CIV,Côte d'Ivoire,2026,17,female,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,19554,15-24
+CIV,Côte d'Ivoire,2026,18,female,Accommodation and food service activities,Services,5313,15-24
+CIV,Côte d'Ivoire,2026,18,female,Activities of extraterritorial organizations and bodies,Services,75,15-24
+CIV,Côte d'Ivoire,2026,18,female,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,8044,15-24
+CIV,Côte d'Ivoire,2026,18,female,Administrative and support service activities,Services,160,15-24
+CIV,Côte d'Ivoire,2026,18,female,Agriculture; forestry and fishing,Agriculture,46219,15-24
+CIV,Côte d'Ivoire,2026,18,female,"Arts, entertainment and recreation",Services,146,15-24
+CIV,Côte d'Ivoire,2026,18,female,Construction,Industry,302,15-24
+CIV,Côte d'Ivoire,2026,18,female,Education,Services,218,15-24
+CIV,Côte d'Ivoire,2026,18,female,"Electricity; gas, steam and air conditioning supply",Industry,0,15-24
+CIV,Côte d'Ivoire,2026,18,female,Financial and insurance activities,Services,275,15-24
+CIV,Côte d'Ivoire,2026,18,female,Human health and social work activities,Services,837,15-24
+CIV,Côte d'Ivoire,2026,18,female,Information and communication,Services,172,15-24
+CIV,Côte d'Ivoire,2026,18,female,Manufacturing,Industry,14660,15-24
+CIV,Côte d'Ivoire,2026,18,female,Mining and quarrying,Industry,98,15-24
+CIV,Côte d'Ivoire,2026,18,female,Other service activities,Services,6882,15-24
+CIV,Côte d'Ivoire,2026,18,female,"Professional, scientific and technical activities",Services,51,15-24
+CIV,Côte d'Ivoire,2026,18,female,Public administration and defence; compulsory social security,Services,230,15-24
+CIV,Côte d'Ivoire,2026,18,female,Real estate activities,Services,142,15-24
+CIV,Côte d'Ivoire,2026,18,female,Transportation and storage,Services,169,15-24
+CIV,Côte d'Ivoire,2026,18,female,"Water supply; sewerage, waste management and remediation activities",Industry,43,15-24
+CIV,Côte d'Ivoire,2026,18,female,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,19064,15-24
+CIV,Côte d'Ivoire,2026,19,female,Accommodation and food service activities,Services,5175,15-24
+CIV,Côte d'Ivoire,2026,19,female,Activities of extraterritorial organizations and bodies,Services,72,15-24
+CIV,Côte d'Ivoire,2026,19,female,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,7834,15-24
+CIV,Côte d'Ivoire,2026,19,female,Administrative and support service activities,Services,155,15-24
+CIV,Côte d'Ivoire,2026,19,female,Agriculture; forestry and fishing,Agriculture,45017,15-24
+CIV,Côte d'Ivoire,2026,19,female,"Arts, entertainment and recreation",Services,142,15-24
+CIV,Côte d'Ivoire,2026,19,female,Construction,Industry,294,15-24
+CIV,Côte d'Ivoire,2026,19,female,Education,Services,213,15-24
+CIV,Côte d'Ivoire,2026,19,female,"Electricity; gas, steam and air conditioning supply",Industry,0,15-24
+CIV,Côte d'Ivoire,2026,19,female,Financial and insurance activities,Services,268,15-24
+CIV,Côte d'Ivoire,2026,19,female,Human health and social work activities,Services,816,15-24
+CIV,Côte d'Ivoire,2026,19,female,Information and communication,Services,167,15-24
+CIV,Côte d'Ivoire,2026,19,female,Manufacturing,Industry,14280,15-24
+CIV,Côte d'Ivoire,2026,19,female,Mining and quarrying,Industry,95,15-24
+CIV,Côte d'Ivoire,2026,19,female,Other service activities,Services,6704,15-24
+CIV,Côte d'Ivoire,2026,19,female,"Professional, scientific and technical activities",Services,50,15-24
+CIV,Côte d'Ivoire,2026,19,female,Public administration and defence; compulsory social security,Services,225,15-24
+CIV,Côte d'Ivoire,2026,19,female,Real estate activities,Services,139,15-24
+CIV,Côte d'Ivoire,2026,19,female,Transportation and storage,Services,164,15-24
+CIV,Côte d'Ivoire,2026,19,female,"Water supply; sewerage, waste management and remediation activities",Industry,42,15-24
+CIV,Côte d'Ivoire,2026,19,female,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,18568,15-24
+CIV,Côte d'Ivoire,2026,20,female,Human health and social work activities,Services,795,15-24
+CIV,Côte d'Ivoire,2026,20,female,Manufacturing,Industry,13892,15-24
+CIV,Côte d'Ivoire,2026,20,female,Mining and quarrying,Industry,93,15-24
+CIV,Côte d'Ivoire,2026,20,female,Accommodation and food service activities,Services,5035,15-24
+CIV,Côte d'Ivoire,2026,20,female,Activities of extraterritorial organizations and bodies,Services,71,15-24
+CIV,Côte d'Ivoire,2026,20,female,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,7620,15-24
+CIV,Côte d'Ivoire,2026,20,female,Administrative and support service activities,Services,151,15-24
+CIV,Côte d'Ivoire,2026,20,female,Agriculture; forestry and fishing,Agriculture,43796,15-24
+CIV,Côte d'Ivoire,2026,20,female,"Arts, entertainment and recreation",Services,138,15-24
+CIV,Côte d'Ivoire,2026,20,female,Construction,Industry,286,15-24
+CIV,Côte d'Ivoire,2026,20,female,Education,Services,206,15-24
+CIV,Côte d'Ivoire,2026,20,female,"Electricity; gas, steam and air conditioning supply",Industry,0,15-24
+CIV,Côte d'Ivoire,2026,20,female,Financial and insurance activities,Services,261,15-24
+CIV,Côte d'Ivoire,2026,20,female,Information and communication,Services,160,15-24
+CIV,Côte d'Ivoire,2026,20,female,Other service activities,Services,6521,15-24
+CIV,Côte d'Ivoire,2026,20,female,"Professional, scientific and technical activities",Services,49,15-24
+CIV,Côte d'Ivoire,2026,20,female,Public administration and defence; compulsory social security,Services,219,15-24
+CIV,Côte d'Ivoire,2026,20,female,Real estate activities,Services,135,15-24
+CIV,Côte d'Ivoire,2026,20,female,Transportation and storage,Services,161,15-24
+CIV,Côte d'Ivoire,2026,20,female,"Water supply; sewerage, waste management and remediation activities",Industry,41,15-24
+CIV,Côte d'Ivoire,2026,20,female,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,18065,15-24
+CIV,Côte d'Ivoire,2026,21,female,Accommodation and food service activities,Services,4893,15-24
+CIV,Côte d'Ivoire,2026,21,female,Activities of extraterritorial organizations and bodies,Services,70,15-24
+CIV,Côte d'Ivoire,2026,21,female,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,7407,15-24
+CIV,Côte d'Ivoire,2026,21,female,Administrative and support service activities,Services,148,15-24
+CIV,Côte d'Ivoire,2026,21,female,Agriculture; forestry and fishing,Agriculture,42564,15-24
+CIV,Côte d'Ivoire,2026,21,female,"Arts, entertainment and recreation",Services,134,15-24
+CIV,Côte d'Ivoire,2026,21,female,Construction,Industry,279,15-24
+CIV,Côte d'Ivoire,2026,21,female,Education,Services,201,15-24
+CIV,Côte d'Ivoire,2026,21,female,"Electricity; gas, steam and air conditioning supply",Industry,0,15-24
+CIV,Côte d'Ivoire,2026,21,female,Financial and insurance activities,Services,254,15-24
+CIV,Côte d'Ivoire,2026,21,female,Human health and social work activities,Services,772,15-24
+CIV,Côte d'Ivoire,2026,21,female,Information and communication,Services,157,15-24
+CIV,Côte d'Ivoire,2026,21,female,Manufacturing,Industry,13501,15-24
+CIV,Côte d'Ivoire,2026,21,female,Mining and quarrying,Industry,89,15-24
+CIV,Côte d'Ivoire,2026,21,female,Other service activities,Services,6339,15-24
+CIV,Côte d'Ivoire,2026,21,female,"Professional, scientific and technical activities",Services,48,15-24
+CIV,Côte d'Ivoire,2026,21,female,Public administration and defence; compulsory social security,Services,212,15-24
+CIV,Côte d'Ivoire,2026,21,female,Real estate activities,Services,132,15-24
+CIV,Côte d'Ivoire,2026,21,female,Transportation and storage,Services,155,15-24
+CIV,Côte d'Ivoire,2026,21,female,"Water supply; sewerage, waste management and remediation activities",Industry,39,15-24
+CIV,Côte d'Ivoire,2026,21,female,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,17555,15-24
+CIV,Côte d'Ivoire,2026,22,female,Accommodation and food service activities,Services,4748,15-24
+CIV,Côte d'Ivoire,2026,22,female,Activities of extraterritorial organizations and bodies,Services,66,15-24
+CIV,Côte d'Ivoire,2026,22,female,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,7187,15-24
+CIV,Côte d'Ivoire,2026,22,female,Administrative and support service activities,Services,144,15-24
+CIV,Côte d'Ivoire,2026,22,female,Agriculture; forestry and fishing,Agriculture,41308,15-24
+CIV,Côte d'Ivoire,2026,22,female,"Arts, entertainment and recreation",Services,129,15-24
+CIV,Côte d'Ivoire,2026,22,female,Construction,Industry,271,15-24
+CIV,Côte d'Ivoire,2026,22,female,Education,Services,196,15-24
+CIV,Côte d'Ivoire,2026,22,female,"Electricity; gas, steam and air conditioning supply",Industry,0,15-24
+CIV,Côte d'Ivoire,2026,22,female,Financial and insurance activities,Services,246,15-24
+CIV,Côte d'Ivoire,2026,22,female,Human health and social work activities,Services,750,15-24
+CIV,Côte d'Ivoire,2026,22,female,Information and communication,Services,152,15-24
+CIV,Côte d'Ivoire,2026,22,female,Manufacturing,Industry,13103,15-24
+CIV,Côte d'Ivoire,2026,22,female,Mining and quarrying,Industry,85,15-24
+CIV,Côte d'Ivoire,2026,22,female,Other service activities,Services,6150,15-24
+CIV,Côte d'Ivoire,2026,22,female,"Professional, scientific and technical activities",Services,46,15-24
+CIV,Côte d'Ivoire,2026,22,female,Public administration and defence; compulsory social security,Services,204,15-24
+CIV,Côte d'Ivoire,2026,22,female,Real estate activities,Services,127,15-24
+CIV,Côte d'Ivoire,2026,22,female,Transportation and storage,Services,150,15-24
+CIV,Côte d'Ivoire,2026,22,female,"Water supply; sewerage, waste management and remediation activities",Industry,38,15-24
+CIV,Côte d'Ivoire,2026,22,female,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,17039,15-24
+CIV,Côte d'Ivoire,2026,23,female,Accommodation and food service activities,Services,4600,15-24
+CIV,Côte d'Ivoire,2026,23,female,Activities of extraterritorial organizations and bodies,Services,64,15-24
+CIV,Côte d'Ivoire,2026,23,female,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,6964,15-24
+CIV,Côte d'Ivoire,2026,23,female,Administrative and support service activities,Services,139,15-24
+CIV,Côte d'Ivoire,2026,23,female,Agriculture; forestry and fishing,Agriculture,40023,15-24
+CIV,Côte d'Ivoire,2026,23,female,"Arts, entertainment and recreation",Services,126,15-24
+CIV,Côte d'Ivoire,2026,23,female,Construction,Industry,262,15-24
+CIV,Côte d'Ivoire,2026,23,female,Education,Services,190,15-24
+CIV,Côte d'Ivoire,2026,23,female,"Electricity; gas, steam and air conditioning supply",Industry,0,15-24
+CIV,Côte d'Ivoire,2026,23,female,Financial and insurance activities,Services,238,15-24
+CIV,Côte d'Ivoire,2026,23,female,Human health and social work activities,Services,725,15-24
+CIV,Côte d'Ivoire,2026,23,female,Information and communication,Services,148,15-24
+CIV,Côte d'Ivoire,2026,23,female,Manufacturing,Industry,12695,15-24
+CIV,Côte d'Ivoire,2026,23,female,Mining and quarrying,Industry,82,15-24
+CIV,Côte d'Ivoire,2026,23,female,Other service activities,Services,5961,15-24
+CIV,Côte d'Ivoire,2026,23,female,"Professional, scientific and technical activities",Services,45,15-24
+CIV,Côte d'Ivoire,2026,23,female,Public administration and defence; compulsory social security,Services,199,15-24
+CIV,Côte d'Ivoire,2026,23,female,Real estate activities,Services,123,15-24
+CIV,Côte d'Ivoire,2026,23,female,Transportation and storage,Services,146,15-24
+CIV,Côte d'Ivoire,2026,23,female,"Water supply; sewerage, waste management and remediation activities",Industry,36,15-24
+CIV,Côte d'Ivoire,2026,23,female,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,16509,15-24
+CIV,Côte d'Ivoire,2026,24,female,Accommodation and food service activities,Services,4452,15-24
+CIV,Côte d'Ivoire,2026,24,female,Activities of extraterritorial organizations and bodies,Services,62,15-24
+CIV,Côte d'Ivoire,2026,24,female,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,6735,15-24
+CIV,Côte d'Ivoire,2026,24,female,Administrative and support service activities,Services,133,15-24
+CIV,Côte d'Ivoire,2026,24,female,Agriculture; forestry and fishing,Agriculture,38720,15-24
+CIV,Côte d'Ivoire,2026,24,female,"Arts, entertainment and recreation",Services,121,15-24
+CIV,Côte d'Ivoire,2026,24,female,Construction,Industry,253,15-24
+CIV,Côte d'Ivoire,2026,24,female,Education,Services,184,15-24
+CIV,Côte d'Ivoire,2026,24,female,"Electricity; gas, steam and air conditioning supply",Industry,0,15-24
+CIV,Côte d'Ivoire,2026,24,female,Financial and insurance activities,Services,231,15-24
+CIV,Côte d'Ivoire,2026,24,female,Human health and social work activities,Services,701,15-24
+CIV,Côte d'Ivoire,2026,24,female,Information and communication,Services,143,15-24
+CIV,Côte d'Ivoire,2026,24,female,Manufacturing,Industry,12282,15-24
+CIV,Côte d'Ivoire,2026,24,female,Mining and quarrying,Industry,80,15-24
+CIV,Côte d'Ivoire,2026,24,female,Other service activities,Services,5765,15-24
+CIV,Côte d'Ivoire,2026,24,female,"Professional, scientific and technical activities",Services,44,15-24
+CIV,Côte d'Ivoire,2026,24,female,Public administration and defence; compulsory social security,Services,193,15-24
+CIV,Côte d'Ivoire,2026,24,female,Real estate activities,Services,119,15-24
+CIV,Côte d'Ivoire,2026,24,female,Transportation and storage,Services,142,15-24
+CIV,Côte d'Ivoire,2026,24,female,"Water supply; sewerage, waste management and remediation activities",Industry,35,15-24
+CIV,Côte d'Ivoire,2026,24,female,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,15971,15-24
+CIV,Côte d'Ivoire,2026,25,female,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,51850,25-35
+CIV,Côte d'Ivoire,2026,25,female,Transportation and storage,Services,506,25-35
+CIV,Côte d'Ivoire,2026,25,female,"Water supply; sewerage, waste management and remediation activities",Industry,94,25-35
+CIV,Côte d'Ivoire,2026,25,female,Accommodation and food service activities,Services,12572,25-35
+CIV,Côte d'Ivoire,2026,25,female,Activities of extraterritorial organizations and bodies,Services,363,25-35
+CIV,Côte d'Ivoire,2026,25,female,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,6702,25-35
+CIV,Côte d'Ivoire,2026,25,female,Administrative and support service activities,Services,382,25-35
+CIV,Côte d'Ivoire,2026,25,female,Agriculture; forestry and fishing,Agriculture,73578,25-35
+CIV,Côte d'Ivoire,2026,25,female,"Arts, entertainment and recreation",Services,329,25-35
+CIV,Côte d'Ivoire,2026,25,female,Construction,Industry,552,25-35
+CIV,Côte d'Ivoire,2026,25,female,Education,Services,3748,25-35
+CIV,Côte d'Ivoire,2026,25,female,"Electricity; gas, steam and air conditioning supply",Industry,141,25-35
+CIV,Côte d'Ivoire,2026,25,female,Financial and insurance activities,Services,1458,25-35
+CIV,Côte d'Ivoire,2026,25,female,Human health and social work activities,Services,5660,25-35
+CIV,Côte d'Ivoire,2026,25,female,Information and communication,Services,559,25-35
+CIV,Côte d'Ivoire,2026,25,female,Manufacturing,Industry,23443,25-35
+CIV,Côte d'Ivoire,2026,25,female,Mining and quarrying,Industry,421,25-35
+CIV,Côte d'Ivoire,2026,25,female,Other service activities,Services,11797,25-35
+CIV,Côte d'Ivoire,2026,25,female,"Professional, scientific and technical activities",Services,469,25-35
+CIV,Côte d'Ivoire,2026,25,female,Public administration and defence; compulsory social security,Services,3087,25-35
+CIV,Côte d'Ivoire,2026,25,female,Real estate activities,Services,699,25-35
+CIV,Côte d'Ivoire,2026,26,female,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,50045,25-35
+CIV,Côte d'Ivoire,2026,26,female,"Water supply; sewerage, waste management and remediation activities",Industry,91,25-35
+CIV,Côte d'Ivoire,2026,26,female,Transportation and storage,Services,487,25-35
+CIV,Côte d'Ivoire,2026,26,female,Real estate activities,Services,673,25-35
+CIV,Côte d'Ivoire,2026,26,female,Public administration and defence; compulsory social security,Services,2979,25-35
+CIV,Côte d'Ivoire,2026,26,female,"Professional, scientific and technical activities",Services,452,25-35
+CIV,Côte d'Ivoire,2026,26,female,Other service activities,Services,11387,25-35
+CIV,Côte d'Ivoire,2026,26,female,Mining and quarrying,Industry,407,25-35
+CIV,Côte d'Ivoire,2026,26,female,Manufacturing,Industry,22626,25-35
+CIV,Côte d'Ivoire,2026,26,female,Information and communication,Services,540,25-35
+CIV,Côte d'Ivoire,2026,26,female,Human health and social work activities,Services,5463,25-35
+CIV,Côte d'Ivoire,2026,26,female,Financial and insurance activities,Services,1409,25-35
+CIV,Côte d'Ivoire,2026,26,female,"Electricity; gas, steam and air conditioning supply",Industry,136,25-35
+CIV,Côte d'Ivoire,2026,26,female,Education,Services,3617,25-35
+CIV,Côte d'Ivoire,2026,26,female,Construction,Industry,533,25-35
+CIV,Côte d'Ivoire,2026,26,female,"Arts, entertainment and recreation",Services,317,25-35
+CIV,Côte d'Ivoire,2026,26,female,Agriculture; forestry and fishing,Agriculture,71018,25-35
+CIV,Côte d'Ivoire,2026,26,female,Administrative and support service activities,Services,370,25-35
+CIV,Côte d'Ivoire,2026,26,female,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,6470,25-35
+CIV,Côte d'Ivoire,2026,26,female,Activities of extraterritorial organizations and bodies,Services,351,25-35
+CIV,Côte d'Ivoire,2026,26,female,Accommodation and food service activities,Services,12135,25-35
+CIV,Côte d'Ivoire,2026,27,female,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,48277,25-35
+CIV,Côte d'Ivoire,2026,27,female,"Water supply; sewerage, waste management and remediation activities",Industry,87,25-35
+CIV,Côte d'Ivoire,2026,27,female,Transportation and storage,Services,471,25-35
+CIV,Côte d'Ivoire,2026,27,female,Real estate activities,Services,651,25-35
+CIV,Côte d'Ivoire,2026,27,female,Public administration and defence; compulsory social security,Services,2873,25-35
+CIV,Côte d'Ivoire,2026,27,female,"Professional, scientific and technical activities",Services,436,25-35
+CIV,Côte d'Ivoire,2026,27,female,Other service activities,Services,10986,25-35
+CIV,Côte d'Ivoire,2026,27,female,Mining and quarrying,Industry,392,25-35
+CIV,Côte d'Ivoire,2026,27,female,Manufacturing,Industry,21826,25-35
+CIV,Côte d'Ivoire,2026,27,female,Information and communication,Services,521,25-35
+CIV,Côte d'Ivoire,2026,27,female,Human health and social work activities,Services,5270,25-35
+CIV,Côte d'Ivoire,2026,27,female,Financial and insurance activities,Services,1357,25-35
+CIV,Côte d'Ivoire,2026,27,female,"Electricity; gas, steam and air conditioning supply",Industry,130,25-35
+CIV,Côte d'Ivoire,2026,27,female,Education,Services,3489,25-35
+CIV,Côte d'Ivoire,2026,27,female,Construction,Industry,513,25-35
+CIV,Côte d'Ivoire,2026,27,female,"Arts, entertainment and recreation",Services,306,25-35
+CIV,Côte d'Ivoire,2026,27,female,Agriculture; forestry and fishing,Agriculture,68509,25-35
+CIV,Côte d'Ivoire,2026,27,female,Administrative and support service activities,Services,356,25-35
+CIV,Côte d'Ivoire,2026,27,female,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,6241,25-35
+CIV,Côte d'Ivoire,2026,27,female,Activities of extraterritorial organizations and bodies,Services,339,25-35
+CIV,Côte d'Ivoire,2026,27,female,Accommodation and food service activities,Services,11706,25-35
+CIV,Côte d'Ivoire,2026,28,female,Agriculture; forestry and fishing,Agriculture,66084,25-35
+CIV,Côte d'Ivoire,2026,28,female,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,46569,25-35
+CIV,Côte d'Ivoire,2026,28,female,"Water supply; sewerage, waste management and remediation activities",Industry,84,25-35
+CIV,Côte d'Ivoire,2026,28,female,Transportation and storage,Services,454,25-35
+CIV,Côte d'Ivoire,2026,28,female,Real estate activities,Services,628,25-35
+CIV,Côte d'Ivoire,2026,28,female,Public administration and defence; compulsory social security,Services,2774,25-35
+CIV,Côte d'Ivoire,2026,28,female,"Professional, scientific and technical activities",Services,420,25-35
+CIV,Côte d'Ivoire,2026,28,female,Other service activities,Services,10596,25-35
+CIV,Côte d'Ivoire,2026,28,female,Mining and quarrying,Industry,377,25-35
+CIV,Côte d'Ivoire,2026,28,female,Manufacturing,Industry,21055,25-35
+CIV,Côte d'Ivoire,2026,28,female,Information and communication,Services,502,25-35
+CIV,Côte d'Ivoire,2026,28,female,Human health and social work activities,Services,5083,25-35
+CIV,Côte d'Ivoire,2026,28,female,Financial and insurance activities,Services,1310,25-35
+CIV,Côte d'Ivoire,2026,28,female,"Electricity; gas, steam and air conditioning supply",Industry,126,25-35
+CIV,Côte d'Ivoire,2026,28,female,Education,Services,3366,25-35
+CIV,Côte d'Ivoire,2026,28,female,Administrative and support service activities,Services,344,25-35
+CIV,Côte d'Ivoire,2026,28,female,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,6022,25-35
+CIV,Côte d'Ivoire,2026,28,female,Activities of extraterritorial organizations and bodies,Services,326,25-35
+CIV,Côte d'Ivoire,2026,28,female,Accommodation and food service activities,Services,11291,25-35
+CIV,Côte d'Ivoire,2026,28,female,Construction,Industry,496,25-35
+CIV,Côte d'Ivoire,2026,28,female,"Arts, entertainment and recreation",Services,296,25-35
+CIV,Côte d'Ivoire,2026,29,female,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,44907,25-35
+CIV,Côte d'Ivoire,2026,29,female,"Water supply; sewerage, waste management and remediation activities",Industry,81,25-35
+CIV,Côte d'Ivoire,2026,29,female,Transportation and storage,Services,437,25-35
+CIV,Côte d'Ivoire,2026,29,female,Real estate activities,Services,605,25-35
+CIV,Côte d'Ivoire,2026,29,female,Public administration and defence; compulsory social security,Services,2673,25-35
+CIV,Côte d'Ivoire,2026,29,female,"Professional, scientific and technical activities",Services,405,25-35
+CIV,Côte d'Ivoire,2026,29,female,Other service activities,Services,10218,25-35
+CIV,Côte d'Ivoire,2026,29,female,Mining and quarrying,Industry,365,25-35
+CIV,Côte d'Ivoire,2026,29,female,Manufacturing,Industry,20302,25-35
+CIV,Côte d'Ivoire,2026,29,female,Information and communication,Services,484,25-35
+CIV,Côte d'Ivoire,2026,29,female,Human health and social work activities,Services,4902,25-35
+CIV,Côte d'Ivoire,2026,29,female,Financial and insurance activities,Services,1263,25-35
+CIV,Côte d'Ivoire,2026,29,female,"Electricity; gas, steam and air conditioning supply",Industry,122,25-35
+CIV,Côte d'Ivoire,2026,29,female,Education,Services,3247,25-35
+CIV,Côte d'Ivoire,2026,29,female,Construction,Industry,478,25-35
+CIV,Côte d'Ivoire,2026,29,female,"Arts, entertainment and recreation",Services,284,25-35
+CIV,Côte d'Ivoire,2026,29,female,Agriculture; forestry and fishing,Agriculture,63726,25-35
+CIV,Côte d'Ivoire,2026,29,female,Administrative and support service activities,Services,331,25-35
+CIV,Côte d'Ivoire,2026,29,female,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,5805,25-35
+CIV,Côte d'Ivoire,2026,29,female,Activities of extraterritorial organizations and bodies,Services,315,25-35
+CIV,Côte d'Ivoire,2026,29,female,Accommodation and food service activities,Services,10888,25-35
+CIV,Côte d'Ivoire,2026,30,female,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,43283,25-35
+CIV,Côte d'Ivoire,2026,30,female,"Water supply; sewerage, waste management and remediation activities",Industry,78,25-35
+CIV,Côte d'Ivoire,2026,30,female,Transportation and storage,Services,422,25-35
+CIV,Côte d'Ivoire,2026,30,female,Real estate activities,Services,583,25-35
+CIV,Côte d'Ivoire,2026,30,female,Public administration and defence; compulsory social security,Services,2576,25-35
+CIV,Côte d'Ivoire,2026,30,female,"Professional, scientific and technical activities",Services,391,25-35
+CIV,Côte d'Ivoire,2026,30,female,Other service activities,Services,9848,25-35
+CIV,Côte d'Ivoire,2026,30,female,Mining and quarrying,Industry,352,25-35
+CIV,Côte d'Ivoire,2026,30,female,Manufacturing,Industry,19568,25-35
+CIV,Côte d'Ivoire,2026,30,female,Information and communication,Services,467,25-35
+CIV,Côte d'Ivoire,2026,30,female,Human health and social work activities,Services,4724,25-35
+CIV,Côte d'Ivoire,2026,30,female,Financial and insurance activities,Services,1217,25-35
+CIV,Côte d'Ivoire,2026,30,female,"Electricity; gas, steam and air conditioning supply",Industry,117,25-35
+CIV,Côte d'Ivoire,2026,30,female,Education,Services,3129,25-35
+CIV,Côte d'Ivoire,2026,30,female,Construction,Industry,460,25-35
+CIV,Côte d'Ivoire,2026,30,female,"Arts, entertainment and recreation",Services,274,25-35
+CIV,Côte d'Ivoire,2026,30,female,Agriculture; forestry and fishing,Agriculture,61420,25-35
+CIV,Côte d'Ivoire,2026,30,female,Administrative and support service activities,Services,319,25-35
+CIV,Côte d'Ivoire,2026,30,female,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,5596,25-35
+CIV,Côte d'Ivoire,2026,30,female,Activities of extraterritorial organizations and bodies,Services,303,25-35
+CIV,Côte d'Ivoire,2026,30,female,Accommodation and food service activities,Services,10495,25-35
+CIV,Côte d'Ivoire,2026,31,female,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,41729,25-35
+CIV,Côte d'Ivoire,2026,31,female,"Water supply; sewerage, waste management and remediation activities",Industry,77,25-35
+CIV,Côte d'Ivoire,2026,31,female,Transportation and storage,Services,407,25-35
+CIV,Côte d'Ivoire,2026,31,female,Real estate activities,Services,561,25-35
+CIV,Côte d'Ivoire,2026,31,female,Public administration and defence; compulsory social security,Services,2483,25-35
+CIV,Côte d'Ivoire,2026,31,female,"Professional, scientific and technical activities",Services,376,25-35
+CIV,Côte d'Ivoire,2026,31,female,Other service activities,Services,9495,25-35
+CIV,Côte d'Ivoire,2026,31,female,Mining and quarrying,Industry,339,25-35
+CIV,Côte d'Ivoire,2026,31,female,Manufacturing,Industry,18866,25-35
+CIV,Côte d'Ivoire,2026,31,female,Information and communication,Services,450,25-35
+CIV,Côte d'Ivoire,2026,31,female,Human health and social work activities,Services,4555,25-35
+CIV,Côte d'Ivoire,2026,31,female,Financial and insurance activities,Services,1174,25-35
+CIV,Côte d'Ivoire,2026,31,female,"Electricity; gas, steam and air conditioning supply",Industry,113,25-35
+CIV,Côte d'Ivoire,2026,31,female,Education,Services,3016,25-35
+CIV,Côte d'Ivoire,2026,31,female,Construction,Industry,444,25-35
+CIV,Côte d'Ivoire,2026,31,female,"Arts, entertainment and recreation",Services,265,25-35
+CIV,Côte d'Ivoire,2026,31,female,Agriculture; forestry and fishing,Agriculture,59217,25-35
+CIV,Côte d'Ivoire,2026,31,female,Administrative and support service activities,Services,307,25-35
+CIV,Côte d'Ivoire,2026,31,female,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,5393,25-35
+CIV,Côte d'Ivoire,2026,31,female,Activities of extraterritorial organizations and bodies,Services,291,25-35
+CIV,Côte d'Ivoire,2026,31,female,Accommodation and food service activities,Services,10119,25-35
+CIV,Côte d'Ivoire,2026,32,female,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,40118,25-35
+CIV,Côte d'Ivoire,2026,32,female,"Water supply; sewerage, waste management and remediation activities",Industry,74,25-35
+CIV,Côte d'Ivoire,2026,32,female,Transportation and storage,Services,391,25-35
+CIV,Côte d'Ivoire,2026,32,female,Real estate activities,Services,540,25-35
+CIV,Côte d'Ivoire,2026,32,female,Public administration and defence; compulsory social security,Services,2388,25-35
+CIV,Côte d'Ivoire,2026,32,female,"Professional, scientific and technical activities",Services,362,25-35
+CIV,Côte d'Ivoire,2026,32,female,Other service activities,Services,9129,25-35
+CIV,Côte d'Ivoire,2026,32,female,Mining and quarrying,Industry,326,25-35
+CIV,Côte d'Ivoire,2026,32,female,Manufacturing,Industry,18138,25-35
+CIV,Côte d'Ivoire,2026,32,female,Information and communication,Services,433,25-35
+CIV,Côte d'Ivoire,2026,32,female,Human health and social work activities,Services,4380,25-35
+CIV,Côte d'Ivoire,2026,32,female,Financial and insurance activities,Services,1129,25-35
+CIV,Côte d'Ivoire,2026,32,female,"Electricity; gas, steam and air conditioning supply",Industry,109,25-35
+CIV,Côte d'Ivoire,2026,32,female,Education,Services,2899,25-35
+CIV,Côte d'Ivoire,2026,32,female,Construction,Industry,427,25-35
+CIV,Côte d'Ivoire,2026,32,female,"Arts, entertainment and recreation",Services,254,25-35
+CIV,Côte d'Ivoire,2026,32,female,Agriculture; forestry and fishing,Agriculture,56931,25-35
+CIV,Côte d'Ivoire,2026,32,female,Administrative and support service activities,Services,296,25-35
+CIV,Côte d'Ivoire,2026,32,female,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,5187,25-35
+CIV,Côte d'Ivoire,2026,32,female,Activities of extraterritorial organizations and bodies,Services,281,25-35
+CIV,Côte d'Ivoire,2026,32,female,Accommodation and food service activities,Services,9728,25-35
+CIV,Côte d'Ivoire,2026,33,female,Mining and quarrying,Industry,312,25-35
+CIV,Côte d'Ivoire,2026,33,female,Manufacturing,Industry,17360,25-35
+CIV,Côte d'Ivoire,2026,33,female,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,38397,25-35
+CIV,Côte d'Ivoire,2026,33,female,"Water supply; sewerage, waste management and remediation activities",Industry,68,25-35
+CIV,Côte d'Ivoire,2026,33,female,Transportation and storage,Services,374,25-35
+CIV,Côte d'Ivoire,2026,33,female,Real estate activities,Services,517,25-35
+CIV,Côte d'Ivoire,2026,33,female,Public administration and defence; compulsory social security,Services,2286,25-35
+CIV,Côte d'Ivoire,2026,33,female,"Professional, scientific and technical activities",Services,347,25-35
+CIV,Côte d'Ivoire,2026,33,female,Information and communication,Services,413,25-35
+CIV,Côte d'Ivoire,2026,33,female,Human health and social work activities,Services,4191,25-35
+CIV,Côte d'Ivoire,2026,33,female,Financial and insurance activities,Services,1081,25-35
+CIV,Côte d'Ivoire,2026,33,female,"Electricity; gas, steam and air conditioning supply",Industry,105,25-35
+CIV,Côte d'Ivoire,2026,33,female,Education,Services,2774,25-35
+CIV,Côte d'Ivoire,2026,33,female,Construction,Industry,408,25-35
+CIV,Côte d'Ivoire,2026,33,female,"Arts, entertainment and recreation",Services,244,25-35
+CIV,Côte d'Ivoire,2026,33,female,Agriculture; forestry and fishing,Agriculture,54488,25-35
+CIV,Côte d'Ivoire,2026,33,female,Administrative and support service activities,Services,284,25-35
+CIV,Côte d'Ivoire,2026,33,female,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,4964,25-35
+CIV,Côte d'Ivoire,2026,33,female,Activities of extraterritorial organizations and bodies,Services,270,25-35
+CIV,Côte d'Ivoire,2026,33,female,Accommodation and food service activities,Services,9309,25-35
+CIV,Côte d'Ivoire,2026,33,female,Other service activities,Services,8736,25-35
+CIV,Côte d'Ivoire,2026,34,female,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,36648,25-35
+CIV,Côte d'Ivoire,2026,34,female,"Water supply; sewerage, waste management and remediation activities",Industry,66,25-35
+CIV,Côte d'Ivoire,2026,34,female,Transportation and storage,Services,357,25-35
+CIV,Côte d'Ivoire,2026,34,female,Real estate activities,Services,494,25-35
+CIV,Côte d'Ivoire,2026,34,female,Public administration and defence; compulsory social security,Services,2181,25-35
+CIV,Côte d'Ivoire,2026,34,female,"Professional, scientific and technical activities",Services,331,25-35
+CIV,Côte d'Ivoire,2026,34,female,Other service activities,Services,8340,25-35
+CIV,Côte d'Ivoire,2026,34,female,Mining and quarrying,Industry,297,25-35
+CIV,Côte d'Ivoire,2026,34,female,Manufacturing,Industry,16568,25-35
+CIV,Côte d'Ivoire,2026,34,female,Information and communication,Services,395,25-35
+CIV,Côte d'Ivoire,2026,34,female,Human health and social work activities,Services,3999,25-35
+CIV,Côte d'Ivoire,2026,34,female,Financial and insurance activities,Services,1031,25-35
+CIV,Côte d'Ivoire,2026,34,female,"Electricity; gas, steam and air conditioning supply",Industry,99,25-35
+CIV,Côte d'Ivoire,2026,34,female,Education,Services,2649,25-35
+CIV,Côte d'Ivoire,2026,34,female,Construction,Industry,391,25-35
+CIV,Côte d'Ivoire,2026,34,female,"Arts, entertainment and recreation",Services,232,25-35
+CIV,Côte d'Ivoire,2026,34,female,Agriculture; forestry and fishing,Agriculture,52006,25-35
+CIV,Côte d'Ivoire,2026,34,female,Administrative and support service activities,Services,270,25-35
+CIV,Côte d'Ivoire,2026,34,female,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,4738,25-35
+CIV,Côte d'Ivoire,2026,34,female,Activities of extraterritorial organizations and bodies,Services,255,25-35
+CIV,Côte d'Ivoire,2026,34,female,Accommodation and food service activities,Services,8886,25-35
+CIV,Côte d'Ivoire,2026,35,female,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,35515,25-35
+CIV,Côte d'Ivoire,2026,35,female,"Water supply; sewerage, waste management and remediation activities",Industry,64,25-35
+CIV,Côte d'Ivoire,2026,35,female,Transportation and storage,Services,344,25-35
+CIV,Côte d'Ivoire,2026,35,female,Real estate activities,Services,364,25-35
+CIV,Côte d'Ivoire,2026,35,female,Public administration and defence; compulsory social security,Services,1741,25-35
+CIV,Côte d'Ivoire,2026,35,female,"Professional, scientific and technical activities",Services,229,25-35
+CIV,Côte d'Ivoire,2026,35,female,Other service activities,Services,8006,25-35
+CIV,Côte d'Ivoire,2026,35,female,Mining and quarrying,Industry,304,25-35
+CIV,Côte d'Ivoire,2026,35,female,Manufacturing,Industry,15698,25-35
+CIV,Côte d'Ivoire,2026,35,female,Information and communication,Services,307,25-35
+CIV,Côte d'Ivoire,2026,35,female,Human health and social work activities,Services,3057,25-35
+CIV,Côte d'Ivoire,2026,35,female,Financial and insurance activities,Services,736,25-35
+CIV,Côte d'Ivoire,2026,35,female,"Electricity; gas, steam and air conditioning supply",Industry,72,25-35
+CIV,Côte d'Ivoire,2026,35,female,Education,Services,1948,25-35
+CIV,Côte d'Ivoire,2026,35,female,Construction,Industry,370,25-35
+CIV,Côte d'Ivoire,2026,35,female,"Arts, entertainment and recreation",Services,197,25-35
+CIV,Côte d'Ivoire,2026,35,female,Agriculture; forestry and fishing,Agriculture,50997,25-35
+CIV,Côte d'Ivoire,2026,35,female,Administrative and support service activities,Services,236,25-35
+CIV,Côte d'Ivoire,2026,35,female,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,4667,25-35
+CIV,Côte d'Ivoire,2026,35,female,Activities of extraterritorial organizations and bodies,Services,228,25-35
+CIV,Côte d'Ivoire,2026,35,female,Accommodation and food service activities,Services,8738,25-35
+CIV,Côte d'Ivoire,2026,15,male,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,12375,15-24
+CIV,Côte d'Ivoire,2026,15,male,"Water supply; sewerage, waste management and remediation activities",Industry,81,15-24
+CIV,Côte d'Ivoire,2026,15,male,Transportation and storage,Services,5126,15-24
+CIV,Côte d'Ivoire,2026,15,male,Real estate activities,Services,59,15-24
+CIV,Côte d'Ivoire,2026,15,male,Public administration and defence; compulsory social security,Services,247,15-24
+CIV,Côte d'Ivoire,2026,15,male,"Professional, scientific and technical activities",Services,207,15-24
+CIV,Côte d'Ivoire,2026,15,male,Other service activities,Services,3364,15-24
+CIV,Côte d'Ivoire,2026,15,male,Mining and quarrying,Industry,1115,15-24
+CIV,Côte d'Ivoire,2026,15,male,Manufacturing,Industry,9523,15-24
+CIV,Côte d'Ivoire,2026,15,male,Information and communication,Services,674,15-24
+CIV,Côte d'Ivoire,2026,15,male,Human health and social work activities,Services,487,15-24
+CIV,Côte d'Ivoire,2026,15,male,Financial and insurance activities,Services,370,15-24
+CIV,Côte d'Ivoire,2026,15,male,"Electricity; gas, steam and air conditioning supply",Industry,204,15-24
+CIV,Côte d'Ivoire,2026,15,male,Education,Services,233,15-24
+CIV,Côte d'Ivoire,2026,15,male,Construction,Industry,7212,15-24
+CIV,Côte d'Ivoire,2026,15,male,"Arts, entertainment and recreation",Services,394,15-24
+CIV,Côte d'Ivoire,2026,15,male,Agriculture; forestry and fishing,Agriculture,89613,15-24
+CIV,Côte d'Ivoire,2026,15,male,Administrative and support service activities,Services,481,15-24
+CIV,Côte d'Ivoire,2026,15,male,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,578,15-24
+CIV,Côte d'Ivoire,2026,15,male,Activities of extraterritorial organizations and bodies,Services,46,15-24
+CIV,Côte d'Ivoire,2026,15,male,Accommodation and food service activities,Services,2077,15-24
+CIV,Côte d'Ivoire,2026,16,male,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,12134,15-24
+CIV,Côte d'Ivoire,2026,16,male,"Water supply; sewerage, waste management and remediation activities",Industry,80,15-24
+CIV,Côte d'Ivoire,2026,16,male,Transportation and storage,Services,5025,15-24
+CIV,Côte d'Ivoire,2026,16,male,Real estate activities,Services,58,15-24
+CIV,Côte d'Ivoire,2026,16,male,Public administration and defence; compulsory social security,Services,243,15-24
+CIV,Côte d'Ivoire,2026,16,male,"Professional, scientific and technical activities",Services,204,15-24
+CIV,Côte d'Ivoire,2026,16,male,Other service activities,Services,3298,15-24
+CIV,Côte d'Ivoire,2026,16,male,Mining and quarrying,Industry,1093,15-24
+CIV,Côte d'Ivoire,2026,16,male,Manufacturing,Industry,9337,15-24
+CIV,Côte d'Ivoire,2026,16,male,Information and communication,Services,662,15-24
+CIV,Côte d'Ivoire,2026,16,male,Human health and social work activities,Services,478,15-24
+CIV,Côte d'Ivoire,2026,16,male,Financial and insurance activities,Services,361,15-24
+CIV,Côte d'Ivoire,2026,16,male,"Electricity; gas, steam and air conditioning supply",Industry,201,15-24
+CIV,Côte d'Ivoire,2026,16,male,Education,Services,228,15-24
+CIV,Côte d'Ivoire,2026,16,male,Construction,Industry,7069,15-24
+CIV,Côte d'Ivoire,2026,16,male,"Arts, entertainment and recreation",Services,384,15-24
+CIV,Côte d'Ivoire,2026,16,male,Agriculture; forestry and fishing,Agriculture,87868,15-24
+CIV,Côte d'Ivoire,2026,16,male,Administrative and support service activities,Services,472,15-24
+CIV,Côte d'Ivoire,2026,16,male,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,566,15-24
+CIV,Côte d'Ivoire,2026,16,male,Activities of extraterritorial organizations and bodies,Services,45,15-24
+CIV,Côte d'Ivoire,2026,16,male,Accommodation and food service activities,Services,2036,15-24
+CIV,Côte d'Ivoire,2026,17,male,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,11885,15-24
+CIV,Côte d'Ivoire,2026,17,male,"Water supply; sewerage, waste management and remediation activities",Industry,77,15-24
+CIV,Côte d'Ivoire,2026,17,male,Transportation and storage,Services,4923,15-24
+CIV,Côte d'Ivoire,2026,17,male,Real estate activities,Services,57,15-24
+CIV,Côte d'Ivoire,2026,17,male,Public administration and defence; compulsory social security,Services,238,15-24
+CIV,Côte d'Ivoire,2026,17,male,"Professional, scientific and technical activities",Services,199,15-24
+CIV,Côte d'Ivoire,2026,17,male,Other service activities,Services,3230,15-24
+CIV,Côte d'Ivoire,2026,17,male,Mining and quarrying,Industry,1070,15-24
+CIV,Côte d'Ivoire,2026,17,male,Manufacturing,Industry,9145,15-24
+CIV,Côte d'Ivoire,2026,17,male,Information and communication,Services,647,15-24
+CIV,Côte d'Ivoire,2026,17,male,Human health and social work activities,Services,469,15-24
+CIV,Côte d'Ivoire,2026,17,male,Financial and insurance activities,Services,355,15-24
+CIV,Côte d'Ivoire,2026,17,male,"Electricity; gas, steam and air conditioning supply",Industry,197,15-24
+CIV,Côte d'Ivoire,2026,17,male,Education,Services,223,15-24
+CIV,Côte d'Ivoire,2026,17,male,Construction,Industry,6925,15-24
+CIV,Côte d'Ivoire,2026,17,male,"Arts, entertainment and recreation",Services,377,15-24
+CIV,Côte d'Ivoire,2026,17,male,Agriculture; forestry and fishing,Agriculture,86065,15-24
+CIV,Côte d'Ivoire,2026,17,male,Administrative and support service activities,Services,463,15-24
+CIV,Côte d'Ivoire,2026,17,male,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,556,15-24
+CIV,Côte d'Ivoire,2026,17,male,Activities of extraterritorial organizations and bodies,Services,44,15-24
+CIV,Côte d'Ivoire,2026,17,male,Accommodation and food service activities,Services,1995,15-24
+CIV,Côte d'Ivoire,2026,18,male,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,11625,15-24
+CIV,Côte d'Ivoire,2026,18,male,"Water supply; sewerage, waste management and remediation activities",Industry,75,15-24
+CIV,Côte d'Ivoire,2026,18,male,Transportation and storage,Services,4816,15-24
+CIV,Côte d'Ivoire,2026,18,male,Real estate activities,Services,57,15-24
+CIV,Côte d'Ivoire,2026,18,male,Public administration and defence; compulsory social security,Services,232,15-24
+CIV,Côte d'Ivoire,2026,18,male,"Professional, scientific and technical activities",Services,194,15-24
+CIV,Côte d'Ivoire,2026,18,male,Other service activities,Services,3160,15-24
+CIV,Côte d'Ivoire,2026,18,male,Mining and quarrying,Industry,1049,15-24
+CIV,Côte d'Ivoire,2026,18,male,Manufacturing,Industry,8947,15-24
+CIV,Côte d'Ivoire,2026,18,male,Information and communication,Services,635,15-24
+CIV,Côte d'Ivoire,2026,18,male,Human health and social work activities,Services,458,15-24
+CIV,Côte d'Ivoire,2026,18,male,Financial and insurance activities,Services,347,15-24
+CIV,Côte d'Ivoire,2026,18,male,"Electricity; gas, steam and air conditioning supply",Industry,194,15-24
+CIV,Côte d'Ivoire,2026,18,male,Education,Services,217,15-24
+CIV,Côte d'Ivoire,2026,18,male,Construction,Industry,6775,15-24
+CIV,Côte d'Ivoire,2026,18,male,"Arts, entertainment and recreation",Services,370,15-24
+CIV,Côte d'Ivoire,2026,18,male,Agriculture; forestry and fishing,Agriculture,84183,15-24
+CIV,Côte d'Ivoire,2026,18,male,Administrative and support service activities,Services,453,15-24
+CIV,Côte d'Ivoire,2026,18,male,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,543,15-24
+CIV,Côte d'Ivoire,2026,18,male,Activities of extraterritorial organizations and bodies,Services,44,15-24
+CIV,Côte d'Ivoire,2026,18,male,Accommodation and food service activities,Services,1951,15-24
+CIV,Côte d'Ivoire,2026,19,male,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,11355,15-24
+CIV,Côte d'Ivoire,2026,19,male,"Water supply; sewerage, waste management and remediation activities",Industry,74,15-24
+CIV,Côte d'Ivoire,2026,19,male,Transportation and storage,Services,4704,15-24
+CIV,Côte d'Ivoire,2026,19,male,Real estate activities,Services,54,15-24
+CIV,Côte d'Ivoire,2026,19,male,Public administration and defence; compulsory social security,Services,227,15-24
+CIV,Côte d'Ivoire,2026,19,male,"Professional, scientific and technical activities",Services,190,15-24
+CIV,Côte d'Ivoire,2026,19,male,Other service activities,Services,3086,15-24
+CIV,Côte d'Ivoire,2026,19,male,Mining and quarrying,Industry,1023,15-24
+CIV,Côte d'Ivoire,2026,19,male,Manufacturing,Industry,8737,15-24
+CIV,Côte d'Ivoire,2026,19,male,Information and communication,Services,620,15-24
+CIV,Côte d'Ivoire,2026,19,male,Human health and social work activities,Services,447,15-24
+CIV,Côte d'Ivoire,2026,19,male,Financial and insurance activities,Services,338,15-24
+CIV,Côte d'Ivoire,2026,19,male,"Electricity; gas, steam and air conditioning supply",Industry,187,15-24
+CIV,Côte d'Ivoire,2026,19,male,Education,Services,213,15-24
+CIV,Côte d'Ivoire,2026,19,male,Construction,Industry,6616,15-24
+CIV,Côte d'Ivoire,2026,19,male,"Arts, entertainment and recreation",Services,359,15-24
+CIV,Côte d'Ivoire,2026,19,male,Agriculture; forestry and fishing,Agriculture,82229,15-24
+CIV,Côte d'Ivoire,2026,19,male,Administrative and support service activities,Services,441,15-24
+CIV,Côte d'Ivoire,2026,19,male,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,531,15-24
+CIV,Côte d'Ivoire,2026,19,male,Activities of extraterritorial organizations and bodies,Services,42,15-24
+CIV,Côte d'Ivoire,2026,19,male,Accommodation and food service activities,Services,1905,15-24
+CIV,Côte d'Ivoire,2026,20,male,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,11080,15-24
+CIV,Côte d'Ivoire,2026,20,male,"Water supply; sewerage, waste management and remediation activities",Industry,73,15-24
+CIV,Côte d'Ivoire,2026,20,male,Transportation and storage,Services,4589,15-24
+CIV,Côte d'Ivoire,2026,20,male,Real estate activities,Services,53,15-24
+CIV,Côte d'Ivoire,2026,20,male,Public administration and defence; compulsory social security,Services,222,15-24
+CIV,Côte d'Ivoire,2026,20,male,"Professional, scientific and technical activities",Services,186,15-24
+CIV,Côte d'Ivoire,2026,20,male,Other service activities,Services,3013,15-24
+CIV,Côte d'Ivoire,2026,20,male,Mining and quarrying,Industry,998,15-24
+CIV,Côte d'Ivoire,2026,20,male,Manufacturing,Industry,8527,15-24
+CIV,Côte d'Ivoire,2026,20,male,Information and communication,Services,604,15-24
+CIV,Côte d'Ivoire,2026,20,male,Human health and social work activities,Services,436,15-24
+CIV,Côte d'Ivoire,2026,20,male,Financial and insurance activities,Services,330,15-24
+CIV,Côte d'Ivoire,2026,20,male,"Electricity; gas, steam and air conditioning supply",Industry,184,15-24
+CIV,Côte d'Ivoire,2026,20,male,Education,Services,207,15-24
+CIV,Côte d'Ivoire,2026,20,male,Construction,Industry,6457,15-24
+CIV,Côte d'Ivoire,2026,20,male,"Arts, entertainment and recreation",Services,352,15-24
+CIV,Côte d'Ivoire,2026,20,male,Agriculture; forestry and fishing,Agriculture,80237,15-24
+CIV,Côte d'Ivoire,2026,20,male,Administrative and support service activities,Services,430,15-24
+CIV,Côte d'Ivoire,2026,20,male,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,517,15-24
+CIV,Côte d'Ivoire,2026,20,male,Activities of extraterritorial organizations and bodies,Services,42,15-24
+CIV,Côte d'Ivoire,2026,20,male,Accommodation and food service activities,Services,1859,15-24
+CIV,Côte d'Ivoire,2026,21,male,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,10805,15-24
+CIV,Côte d'Ivoire,2026,21,male,"Water supply; sewerage, waste management and remediation activities",Industry,70,15-24
+CIV,Côte d'Ivoire,2026,21,male,Transportation and storage,Services,4474,15-24
+CIV,Côte d'Ivoire,2026,21,male,Real estate activities,Services,51,15-24
+CIV,Côte d'Ivoire,2026,21,male,Public administration and defence; compulsory social security,Services,215,15-24
+CIV,Côte d'Ivoire,2026,21,male,"Professional, scientific and technical activities",Services,182,15-24
+CIV,Côte d'Ivoire,2026,21,male,Other service activities,Services,2937,15-24
+CIV,Côte d'Ivoire,2026,21,male,Mining and quarrying,Industry,974,15-24
+CIV,Côte d'Ivoire,2026,21,male,Manufacturing,Industry,8314,15-24
+CIV,Côte d'Ivoire,2026,21,male,Information and communication,Services,589,15-24
+CIV,Côte d'Ivoire,2026,21,male,Human health and social work activities,Services,425,15-24
+CIV,Côte d'Ivoire,2026,21,male,Financial and insurance activities,Services,323,15-24
+CIV,Côte d'Ivoire,2026,21,male,"Electricity; gas, steam and air conditioning supply",Industry,179,15-24
+CIV,Côte d'Ivoire,2026,21,male,Education,Services,203,15-24
+CIV,Côte d'Ivoire,2026,21,male,Construction,Industry,6294,15-24
+CIV,Côte d'Ivoire,2026,21,male,"Arts, entertainment and recreation",Services,342,15-24
+CIV,Côte d'Ivoire,2026,21,male,Agriculture; forestry and fishing,Agriculture,78233,15-24
+CIV,Côte d'Ivoire,2026,21,male,Administrative and support service activities,Services,418,15-24
+CIV,Côte d'Ivoire,2026,21,male,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,505,15-24
+CIV,Côte d'Ivoire,2026,21,male,Activities of extraterritorial organizations and bodies,Services,40,15-24
+CIV,Côte d'Ivoire,2026,21,male,Accommodation and food service activities,Services,1813,15-24
+CIV,Côte d'Ivoire,2026,22,male,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,10501,15-24
+CIV,Côte d'Ivoire,2026,22,male,"Water supply; sewerage, waste management and remediation activities",Industry,69,15-24
+CIV,Côte d'Ivoire,2026,22,male,Transportation and storage,Services,4350,15-24
+CIV,Côte d'Ivoire,2026,22,male,Real estate activities,Services,50,15-24
+CIV,Côte d'Ivoire,2026,22,male,Public administration and defence; compulsory social security,Services,208,15-24
+CIV,Côte d'Ivoire,2026,22,male,"Professional, scientific and technical activities",Services,177,15-24
+CIV,Côte d'Ivoire,2026,22,male,Other service activities,Services,2855,15-24
+CIV,Côte d'Ivoire,2026,22,male,Mining and quarrying,Industry,945,15-24
+CIV,Côte d'Ivoire,2026,22,male,Manufacturing,Industry,8081,15-24
+CIV,Côte d'Ivoire,2026,22,male,Information and communication,Services,574,15-24
+CIV,Côte d'Ivoire,2026,22,male,Human health and social work activities,Services,414,15-24
+CIV,Côte d'Ivoire,2026,22,male,Financial and insurance activities,Services,313,15-24
+CIV,Côte d'Ivoire,2026,22,male,"Electricity; gas, steam and air conditioning supply",Industry,174,15-24
+CIV,Côte d'Ivoire,2026,22,male,Education,Services,198,15-24
+CIV,Côte d'Ivoire,2026,22,male,Construction,Industry,6118,15-24
+CIV,Côte d'Ivoire,2026,22,male,"Arts, entertainment and recreation",Services,333,15-24
+CIV,Côte d'Ivoire,2026,22,male,Agriculture; forestry and fishing,Agriculture,76039,15-24
+CIV,Côte d'Ivoire,2026,22,male,Administrative and support service activities,Services,408,15-24
+CIV,Côte d'Ivoire,2026,22,male,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,490,15-24
+CIV,Côte d'Ivoire,2026,22,male,Activities of extraterritorial organizations and bodies,Services,39,15-24
+CIV,Côte d'Ivoire,2026,22,male,Accommodation and food service activities,Services,1760,15-24
+CIV,Côte d'Ivoire,2026,23,male,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,10161,15-24
+CIV,Côte d'Ivoire,2026,23,male,"Water supply; sewerage, waste management and remediation activities",Industry,67,15-24
+CIV,Côte d'Ivoire,2026,23,male,Transportation and storage,Services,4209,15-24
+CIV,Côte d'Ivoire,2026,23,male,Real estate activities,Services,49,15-24
+CIV,Côte d'Ivoire,2026,23,male,Public administration and defence; compulsory social security,Services,204,15-24
+CIV,Côte d'Ivoire,2026,23,male,"Professional, scientific and technical activities",Services,169,15-24
+CIV,Côte d'Ivoire,2026,23,male,Other service activities,Services,2762,15-24
+CIV,Côte d'Ivoire,2026,23,male,Mining and quarrying,Industry,916,15-24
+CIV,Côte d'Ivoire,2026,23,male,Manufacturing,Industry,7821,15-24
+CIV,Côte d'Ivoire,2026,23,male,Information and communication,Services,556,15-24
+CIV,Côte d'Ivoire,2026,23,male,Human health and social work activities,Services,400,15-24
+CIV,Côte d'Ivoire,2026,23,male,Financial and insurance activities,Services,303,15-24
+CIV,Côte d'Ivoire,2026,23,male,"Electricity; gas, steam and air conditioning supply",Industry,169,15-24
+CIV,Côte d'Ivoire,2026,23,male,Education,Services,191,15-24
+CIV,Côte d'Ivoire,2026,23,male,Construction,Industry,5921,15-24
+CIV,Côte d'Ivoire,2026,23,male,"Arts, entertainment and recreation",Services,323,15-24
+CIV,Côte d'Ivoire,2026,23,male,Agriculture; forestry and fishing,Agriculture,73581,15-24
+CIV,Côte d'Ivoire,2026,23,male,Administrative and support service activities,Services,396,15-24
+CIV,Côte d'Ivoire,2026,23,male,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,474,15-24
+CIV,Côte d'Ivoire,2026,23,male,Activities of extraterritorial organizations and bodies,Services,38,15-24
+CIV,Côte d'Ivoire,2026,23,male,Accommodation and food service activities,Services,1705,15-24
+CIV,Côte d'Ivoire,2026,24,male,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,9799,15-24
+CIV,Côte d'Ivoire,2026,24,male,"Water supply; sewerage, waste management and remediation activities",Industry,64,15-24
+CIV,Côte d'Ivoire,2026,24,male,Transportation and storage,Services,4059,15-24
+CIV,Côte d'Ivoire,2026,24,male,Real estate activities,Services,47,15-24
+CIV,Côte d'Ivoire,2026,24,male,Public administration and defence; compulsory social security,Services,195,15-24
+CIV,Côte d'Ivoire,2026,24,male,"Professional, scientific and technical activities",Services,164,15-24
+CIV,Côte d'Ivoire,2026,24,male,Other service activities,Services,2665,15-24
+CIV,Côte d'Ivoire,2026,24,male,Mining and quarrying,Industry,883,15-24
+CIV,Côte d'Ivoire,2026,24,male,Manufacturing,Industry,7540,15-24
+CIV,Côte d'Ivoire,2026,24,male,Information and communication,Services,535,15-24
+CIV,Côte d'Ivoire,2026,24,male,Human health and social work activities,Services,386,15-24
+CIV,Côte d'Ivoire,2026,24,male,Financial and insurance activities,Services,292,15-24
+CIV,Côte d'Ivoire,2026,24,male,"Electricity; gas, steam and air conditioning supply",Industry,163,15-24
+CIV,Côte d'Ivoire,2026,24,male,Education,Services,184,15-24
+CIV,Côte d'Ivoire,2026,24,male,Construction,Industry,5708,15-24
+CIV,Côte d'Ivoire,2026,24,male,"Arts, entertainment and recreation",Services,311,15-24
+CIV,Côte d'Ivoire,2026,24,male,Agriculture; forestry and fishing,Agriculture,70955,15-24
+CIV,Côte d'Ivoire,2026,24,male,Administrative and support service activities,Services,380,15-24
+CIV,Côte d'Ivoire,2026,24,male,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,458,15-24
+CIV,Côte d'Ivoire,2026,24,male,Activities of extraterritorial organizations and bodies,Services,38,15-24
+CIV,Côte d'Ivoire,2026,24,male,Accommodation and food service activities,Services,1645,15-24
+CIV,Côte d'Ivoire,2026,25,male,Accommodation and food service activities,Services,3649,25-35
+CIV,Côte d'Ivoire,2026,25,male,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,730,25-35
+CIV,Côte d'Ivoire,2026,25,male,Administrative and support service activities,Services,2720,25-35
+CIV,Côte d'Ivoire,2026,25,male,Agriculture; forestry and fishing,Agriculture,98363,25-35
+CIV,Côte d'Ivoire,2026,25,male,"Arts, entertainment and recreation",Services,1916,25-35
+CIV,Côte d'Ivoire,2026,25,male,Construction,Industry,17205,25-35
+CIV,Côte d'Ivoire,2026,25,male,Education,Services,14157,25-35
+CIV,Côte d'Ivoire,2026,25,male,"Electricity; gas, steam and air conditioning supply",Industry,708,25-35
+CIV,Côte d'Ivoire,2026,25,male,Financial and insurance activities,Services,3425,25-35
+CIV,Côte d'Ivoire,2026,25,male,Human health and social work activities,Services,6754,25-35
+CIV,Côte d'Ivoire,2026,25,male,Information and communication,Services,4159,25-35
+CIV,Côte d'Ivoire,2026,25,male,Manufacturing,Industry,22552,25-35
+CIV,Côte d'Ivoire,2026,25,male,Mining and quarrying,Industry,2782,25-35
+CIV,Côte d'Ivoire,2026,25,male,Other service activities,Services,9546,25-35
+CIV,Côte d'Ivoire,2026,25,male,"Professional, scientific and technical activities",Services,1570,25-35
+CIV,Côte d'Ivoire,2026,25,male,Public administration and defence; compulsory social security,Services,9839,25-35
+CIV,Côte d'Ivoire,2026,25,male,Real estate activities,Services,412,25-35
+CIV,Côte d'Ivoire,2026,25,male,Transportation and storage,Services,17187,25-35
+CIV,Côte d'Ivoire,2026,25,male,"Water supply; sewerage, waste management and remediation activities",Industry,298,25-35
+CIV,Côte d'Ivoire,2026,25,male,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,36686,25-35
+CIV,Côte d'Ivoire,2026,25,male,Activities of extraterritorial organizations and bodies,Services,315,25-35
+CIV,Côte d'Ivoire,2026,26,male,Accommodation and food service activities,Services,3509,25-35
+CIV,Côte d'Ivoire,2026,26,male,Activities of extraterritorial organizations and bodies,Services,301,25-35
+CIV,Côte d'Ivoire,2026,26,male,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,702,25-35
+CIV,Côte d'Ivoire,2026,26,male,Administrative and support service activities,Services,2616,25-35
+CIV,Côte d'Ivoire,2026,26,male,Agriculture; forestry and fishing,Agriculture,94581,25-35
+CIV,Côte d'Ivoire,2026,26,male,"Arts, entertainment and recreation",Services,1842,25-35
+CIV,Côte d'Ivoire,2026,26,male,Construction,Industry,16544,25-35
+CIV,Côte d'Ivoire,2026,26,male,Education,Services,13614,25-35
+CIV,Côte d'Ivoire,2026,26,male,"Electricity; gas, steam and air conditioning supply",Industry,682,25-35
+CIV,Côte d'Ivoire,2026,26,male,Financial and insurance activities,Services,3293,25-35
+CIV,Côte d'Ivoire,2026,26,male,Human health and social work activities,Services,6494,25-35
+CIV,Côte d'Ivoire,2026,26,male,Information and communication,Services,3998,25-35
+CIV,Côte d'Ivoire,2026,26,male,Manufacturing,Industry,21684,25-35
+CIV,Côte d'Ivoire,2026,26,male,Mining and quarrying,Industry,2674,25-35
+CIV,Côte d'Ivoire,2026,26,male,Other service activities,Services,9180,25-35
+CIV,Côte d'Ivoire,2026,26,male,"Professional, scientific and technical activities",Services,1511,25-35
+CIV,Côte d'Ivoire,2026,26,male,Public administration and defence; compulsory social security,Services,9461,25-35
+CIV,Côte d'Ivoire,2026,26,male,Real estate activities,Services,397,25-35
+CIV,Côte d'Ivoire,2026,26,male,Transportation and storage,Services,16526,25-35
+CIV,Côte d'Ivoire,2026,26,male,"Water supply; sewerage, waste management and remediation activities",Industry,285,25-35
+CIV,Côte d'Ivoire,2026,26,male,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,35276,25-35
+CIV,Côte d'Ivoire,2026,27,male,Accommodation and food service activities,Services,3370,25-35
+CIV,Côte d'Ivoire,2026,27,male,Activities of extraterritorial organizations and bodies,Services,290,25-35
+CIV,Côte d'Ivoire,2026,27,male,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,677,25-35
+CIV,Côte d'Ivoire,2026,27,male,Administrative and support service activities,Services,2514,25-35
+CIV,Côte d'Ivoire,2026,27,male,Agriculture; forestry and fishing,Agriculture,90861,25-35
+CIV,Côte d'Ivoire,2026,27,male,"Arts, entertainment and recreation",Services,1770,25-35
+CIV,Côte d'Ivoire,2026,27,male,Construction,Industry,15893,25-35
+CIV,Côte d'Ivoire,2026,27,male,Education,Services,13079,25-35
+CIV,Côte d'Ivoire,2026,27,male,"Electricity; gas, steam and air conditioning supply",Industry,655,25-35
+CIV,Côte d'Ivoire,2026,27,male,Financial and insurance activities,Services,3163,25-35
+CIV,Côte d'Ivoire,2026,27,male,Human health and social work activities,Services,6239,25-35
+CIV,Côte d'Ivoire,2026,27,male,Information and communication,Services,3842,25-35
+CIV,Côte d'Ivoire,2026,27,male,Manufacturing,Industry,20831,25-35
+CIV,Côte d'Ivoire,2026,27,male,Mining and quarrying,Industry,2570,25-35
+CIV,Côte d'Ivoire,2026,27,male,Other service activities,Services,8819,25-35
+CIV,Côte d'Ivoire,2026,27,male,"Professional, scientific and technical activities",Services,1452,25-35
+CIV,Côte d'Ivoire,2026,27,male,Public administration and defence; compulsory social security,Services,9088,25-35
+CIV,Côte d'Ivoire,2026,27,male,Real estate activities,Services,381,25-35
+CIV,Côte d'Ivoire,2026,27,male,Transportation and storage,Services,15875,25-35
+CIV,Côte d'Ivoire,2026,27,male,"Water supply; sewerage, waste management and remediation activities",Industry,275,25-35
+CIV,Côte d'Ivoire,2026,27,male,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,33888,25-35
+CIV,Côte d'Ivoire,2026,28,male,Accommodation and food service activities,Services,3238,25-35
+CIV,Côte d'Ivoire,2026,28,male,Activities of extraterritorial organizations and bodies,Services,280,25-35
+CIV,Côte d'Ivoire,2026,28,male,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,649,25-35
+CIV,Côte d'Ivoire,2026,28,male,Administrative and support service activities,Services,2413,25-35
+CIV,Côte d'Ivoire,2026,28,male,Agriculture; forestry and fishing,Agriculture,87276,25-35
+CIV,Côte d'Ivoire,2026,28,male,"Arts, entertainment and recreation",Services,1700,25-35
+CIV,Côte d'Ivoire,2026,28,male,Construction,Industry,15265,25-35
+CIV,Côte d'Ivoire,2026,28,male,Education,Services,12563,25-35
+CIV,Côte d'Ivoire,2026,28,male,"Electricity; gas, steam and air conditioning supply",Industry,630,25-35
+CIV,Côte d'Ivoire,2026,28,male,Financial and insurance activities,Services,3039,25-35
+CIV,Côte d'Ivoire,2026,28,male,Human health and social work activities,Services,5992,25-35
+CIV,Côte d'Ivoire,2026,28,male,Information and communication,Services,3690,25-35
+CIV,Côte d'Ivoire,2026,28,male,Manufacturing,Industry,20009,25-35
+CIV,Côte d'Ivoire,2026,28,male,Mining and quarrying,Industry,2468,25-35
+CIV,Côte d'Ivoire,2026,28,male,Other service activities,Services,8471,25-35
+CIV,Côte d'Ivoire,2026,28,male,"Professional, scientific and technical activities",Services,1395,25-35
+CIV,Côte d'Ivoire,2026,28,male,Public administration and defence; compulsory social security,Services,8729,25-35
+CIV,Côte d'Ivoire,2026,28,male,Real estate activities,Services,367,25-35
+CIV,Côte d'Ivoire,2026,28,male,Transportation and storage,Services,15249,25-35
+CIV,Côte d'Ivoire,2026,28,male,"Water supply; sewerage, waste management and remediation activities",Industry,264,25-35
+CIV,Côte d'Ivoire,2026,28,male,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,32552,25-35
+CIV,Côte d'Ivoire,2026,29,male,Accommodation and food service activities,Services,3108,25-35
+CIV,Côte d'Ivoire,2026,29,male,Activities of extraterritorial organizations and bodies,Services,268,25-35
+CIV,Côte d'Ivoire,2026,29,male,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,623,25-35
+CIV,Côte d'Ivoire,2026,29,male,Administrative and support service activities,Services,2318,25-35
+CIV,Côte d'Ivoire,2026,29,male,Agriculture; forestry and fishing,Agriculture,83809,25-35
+CIV,Côte d'Ivoire,2026,29,male,"Arts, entertainment and recreation",Services,1633,25-35
+CIV,Côte d'Ivoire,2026,29,male,Construction,Industry,14660,25-35
+CIV,Côte d'Ivoire,2026,29,male,Education,Services,12064,25-35
+CIV,Côte d'Ivoire,2026,29,male,"Electricity; gas, steam and air conditioning supply",Industry,604,25-35
+CIV,Côte d'Ivoire,2026,29,male,Financial and insurance activities,Services,2917,25-35
+CIV,Côte d'Ivoire,2026,29,male,Human health and social work activities,Services,5756,25-35
+CIV,Côte d'Ivoire,2026,29,male,Information and communication,Services,3543,25-35
+CIV,Côte d'Ivoire,2026,29,male,Manufacturing,Industry,19213,25-35
+CIV,Côte d'Ivoire,2026,29,male,Mining and quarrying,Industry,2370,25-35
+CIV,Côte d'Ivoire,2026,29,male,Other service activities,Services,8134,25-35
+CIV,Côte d'Ivoire,2026,29,male,"Professional, scientific and technical activities",Services,1339,25-35
+CIV,Côte d'Ivoire,2026,29,male,Public administration and defence; compulsory social security,Services,8384,25-35
+CIV,Côte d'Ivoire,2026,29,male,Real estate activities,Services,353,25-35
+CIV,Côte d'Ivoire,2026,29,male,Transportation and storage,Services,14645,25-35
+CIV,Côte d'Ivoire,2026,29,male,"Water supply; sewerage, waste management and remediation activities",Industry,253,25-35
+CIV,Côte d'Ivoire,2026,29,male,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,31258,25-35
+CIV,Côte d'Ivoire,2026,30,male,Information and communication,Services,3401,25-35
+CIV,Côte d'Ivoire,2026,30,male,Accommodation and food service activities,Services,2983,25-35
+CIV,Côte d'Ivoire,2026,30,male,Activities of extraterritorial organizations and bodies,Services,257,25-35
+CIV,Côte d'Ivoire,2026,30,male,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,597,25-35
+CIV,Côte d'Ivoire,2026,30,male,Administrative and support service activities,Services,2224,25-35
+CIV,Côte d'Ivoire,2026,30,male,Agriculture; forestry and fishing,Agriculture,80401,25-35
+CIV,Côte d'Ivoire,2026,30,male,"Arts, entertainment and recreation",Services,1566,25-35
+CIV,Côte d'Ivoire,2026,30,male,Construction,Industry,14064,25-35
+CIV,Côte d'Ivoire,2026,30,male,Education,Services,11573,25-35
+CIV,Côte d'Ivoire,2026,30,male,"Electricity; gas, steam and air conditioning supply",Industry,579,25-35
+CIV,Côte d'Ivoire,2026,30,male,Manufacturing,Industry,18433,25-35
+CIV,Côte d'Ivoire,2026,30,male,Mining and quarrying,Industry,2272,25-35
+CIV,Côte d'Ivoire,2026,30,male,Other service activities,Services,7803,25-35
+CIV,Côte d'Ivoire,2026,30,male,"Professional, scientific and technical activities",Services,1286,25-35
+CIV,Côte d'Ivoire,2026,30,male,Public administration and defence; compulsory social security,Services,8042,25-35
+CIV,Côte d'Ivoire,2026,30,male,Real estate activities,Services,337,25-35
+CIV,Côte d'Ivoire,2026,30,male,Transportation and storage,Services,14048,25-35
+CIV,Côte d'Ivoire,2026,30,male,"Water supply; sewerage, waste management and remediation activities",Industry,243,25-35
+CIV,Côte d'Ivoire,2026,30,male,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,29987,25-35
+CIV,Côte d'Ivoire,2026,30,male,Financial and insurance activities,Services,2798,25-35
+CIV,Côte d'Ivoire,2026,30,male,Human health and social work activities,Services,5521,25-35
+CIV,Côte d'Ivoire,2026,31,male,Accommodation and food service activities,Services,2859,25-35
+CIV,Côte d'Ivoire,2026,31,male,Activities of extraterritorial organizations and bodies,Services,246,25-35
+CIV,Côte d'Ivoire,2026,31,male,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,573,25-35
+CIV,Côte d'Ivoire,2026,31,male,Administrative and support service activities,Services,2133,25-35
+CIV,Côte d'Ivoire,2026,31,male,Agriculture; forestry and fishing,Agriculture,77089,25-35
+CIV,Côte d'Ivoire,2026,31,male,"Arts, entertainment and recreation",Services,1501,25-35
+CIV,Côte d'Ivoire,2026,31,male,Construction,Industry,13485,25-35
+CIV,Côte d'Ivoire,2026,31,male,Education,Services,11096,25-35
+CIV,Côte d'Ivoire,2026,31,male,"Electricity; gas, steam and air conditioning supply",Industry,555,25-35
+CIV,Côte d'Ivoire,2026,31,male,Financial and insurance activities,Services,2683,25-35
+CIV,Côte d'Ivoire,2026,31,male,Human health and social work activities,Services,5294,25-35
+CIV,Côte d'Ivoire,2026,31,male,Information and communication,Services,3260,25-35
+CIV,Côte d'Ivoire,2026,31,male,Manufacturing,Industry,17673,25-35
+CIV,Côte d'Ivoire,2026,31,male,Mining and quarrying,Industry,2180,25-35
+CIV,Côte d'Ivoire,2026,31,male,Other service activities,Services,7482,25-35
+CIV,Côte d'Ivoire,2026,31,male,"Professional, scientific and technical activities",Services,1230,25-35
+CIV,Côte d'Ivoire,2026,31,male,Public administration and defence; compulsory social security,Services,7710,25-35
+CIV,Côte d'Ivoire,2026,31,male,Real estate activities,Services,323,25-35
+CIV,Côte d'Ivoire,2026,31,male,Transportation and storage,Services,13470,25-35
+CIV,Côte d'Ivoire,2026,31,male,"Water supply; sewerage, waste management and remediation activities",Industry,233,25-35
+CIV,Côte d'Ivoire,2026,31,male,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,28752,25-35
+CIV,Côte d'Ivoire,2026,32,male,Accommodation and food service activities,Services,2741,25-35
+CIV,Côte d'Ivoire,2026,32,male,Activities of extraterritorial organizations and bodies,Services,235,25-35
+CIV,Côte d'Ivoire,2026,32,male,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,549,25-35
+CIV,Côte d'Ivoire,2026,32,male,Administrative and support service activities,Services,2043,25-35
+CIV,Côte d'Ivoire,2026,32,male,Agriculture; forestry and fishing,Agriculture,73889,25-35
+CIV,Côte d'Ivoire,2026,32,male,"Arts, entertainment and recreation",Services,1440,25-35
+CIV,Côte d'Ivoire,2026,32,male,Construction,Industry,12924,25-35
+CIV,Côte d'Ivoire,2026,32,male,Education,Services,10636,25-35
+CIV,Côte d'Ivoire,2026,32,male,"Electricity; gas, steam and air conditioning supply",Industry,532,25-35
+CIV,Côte d'Ivoire,2026,32,male,Financial and insurance activities,Services,2573,25-35
+CIV,Côte d'Ivoire,2026,32,male,Human health and social work activities,Services,5072,25-35
+CIV,Côte d'Ivoire,2026,32,male,Information and communication,Services,3124,25-35
+CIV,Côte d'Ivoire,2026,32,male,Manufacturing,Industry,16939,25-35
+CIV,Côte d'Ivoire,2026,32,male,Mining and quarrying,Industry,2088,25-35
+CIV,Côte d'Ivoire,2026,32,male,Other service activities,Services,7171,25-35
+CIV,Côte d'Ivoire,2026,32,male,"Professional, scientific and technical activities",Services,1181,25-35
+CIV,Côte d'Ivoire,2026,32,male,Public administration and defence; compulsory social security,Services,7391,25-35
+CIV,Côte d'Ivoire,2026,32,male,Real estate activities,Services,311,25-35
+CIV,Côte d'Ivoire,2026,32,male,Transportation and storage,Services,12910,25-35
+CIV,Côte d'Ivoire,2026,32,male,"Water supply; sewerage, waste management and remediation activities",Industry,223,25-35
+CIV,Côte d'Ivoire,2026,32,male,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,27559,25-35
+CIV,Côte d'Ivoire,2026,33,male,Accommodation and food service activities,Services,2627,25-35
+CIV,Côte d'Ivoire,2026,33,male,Activities of extraterritorial organizations and bodies,Services,226,25-35
+CIV,Côte d'Ivoire,2026,33,male,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,526,25-35
+CIV,Côte d'Ivoire,2026,33,male,Administrative and support service activities,Services,1959,25-35
+CIV,Côte d'Ivoire,2026,33,male,Agriculture; forestry and fishing,Agriculture,70809,25-35
+CIV,Côte d'Ivoire,2026,33,male,"Arts, entertainment and recreation",Services,1379,25-35
+CIV,Côte d'Ivoire,2026,33,male,Construction,Industry,12383,25-35
+CIV,Côte d'Ivoire,2026,33,male,Education,Services,10193,25-35
+CIV,Côte d'Ivoire,2026,33,male,"Electricity; gas, steam and air conditioning supply",Industry,510,25-35
+CIV,Côte d'Ivoire,2026,33,male,Financial and insurance activities,Services,2464,25-35
+CIV,Côte d'Ivoire,2026,33,male,Human health and social work activities,Services,4863,25-35
+CIV,Côte d'Ivoire,2026,33,male,Information and communication,Services,2994,25-35
+CIV,Côte d'Ivoire,2026,33,male,Manufacturing,Industry,16234,25-35
+CIV,Côte d'Ivoire,2026,33,male,Mining and quarrying,Industry,2002,25-35
+CIV,Côte d'Ivoire,2026,33,male,Other service activities,Services,6872,25-35
+CIV,Côte d'Ivoire,2026,33,male,"Professional, scientific and technical activities",Services,1132,25-35
+CIV,Côte d'Ivoire,2026,33,male,Public administration and defence; compulsory social security,Services,7084,25-35
+CIV,Côte d'Ivoire,2026,33,male,Real estate activities,Services,299,25-35
+CIV,Côte d'Ivoire,2026,33,male,Transportation and storage,Services,12373,25-35
+CIV,Côte d'Ivoire,2026,33,male,"Water supply; sewerage, waste management and remediation activities",Industry,213,25-35
+CIV,Côte d'Ivoire,2026,33,male,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,26409,25-35
+CIV,Côte d'Ivoire,2026,34,male,Accommodation and food service activities,Services,2518,25-35
+CIV,Côte d'Ivoire,2026,34,male,Activities of extraterritorial organizations and bodies,Services,217,25-35
+CIV,Côte d'Ivoire,2026,34,male,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,505,25-35
+CIV,Côte d'Ivoire,2026,34,male,Administrative and support service activities,Services,1878,25-35
+CIV,Côte d'Ivoire,2026,34,male,Agriculture; forestry and fishing,Agriculture,67887,25-35
+CIV,Côte d'Ivoire,2026,34,male,"Arts, entertainment and recreation",Services,1323,25-35
+CIV,Côte d'Ivoire,2026,34,male,Construction,Industry,11874,25-35
+CIV,Côte d'Ivoire,2026,34,male,Education,Services,9771,25-35
+CIV,Côte d'Ivoire,2026,34,male,"Electricity; gas, steam and air conditioning supply",Industry,490,25-35
+CIV,Côte d'Ivoire,2026,34,male,Financial and insurance activities,Services,2363,25-35
+CIV,Côte d'Ivoire,2026,34,male,Human health and social work activities,Services,4662,25-35
+CIV,Côte d'Ivoire,2026,34,male,Information and communication,Services,2870,25-35
+CIV,Côte d'Ivoire,2026,34,male,Manufacturing,Industry,15563,25-35
+CIV,Côte d'Ivoire,2026,34,male,Mining and quarrying,Industry,1920,25-35
+CIV,Côte d'Ivoire,2026,34,male,Other service activities,Services,6588,25-35
+CIV,Côte d'Ivoire,2026,34,male,"Professional, scientific and technical activities",Services,1086,25-35
+CIV,Côte d'Ivoire,2026,34,male,Public administration and defence; compulsory social security,Services,6791,25-35
+CIV,Côte d'Ivoire,2026,34,male,Real estate activities,Services,286,25-35
+CIV,Côte d'Ivoire,2026,34,male,Transportation and storage,Services,11862,25-35
+CIV,Côte d'Ivoire,2026,34,male,"Water supply; sewerage, waste management and remediation activities",Industry,205,25-35
+CIV,Côte d'Ivoire,2026,34,male,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,25319,25-35
+CIV,Côte d'Ivoire,2026,35,male,Transportation and storage,Services,11583,25-35
+CIV,Côte d'Ivoire,2026,35,male,"Water supply; sewerage, waste management and remediation activities",Industry,199,25-35
+CIV,Côte d'Ivoire,2026,35,male,Accommodation and food service activities,Services,2539,25-35
+CIV,Côte d'Ivoire,2026,35,male,Activities of extraterritorial organizations and bodies,Services,191,25-35
+CIV,Côte d'Ivoire,2026,35,male,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services,522,25-35
+CIV,Côte d'Ivoire,2026,35,male,Administrative and support service activities,Services,1602,25-35
+CIV,Côte d'Ivoire,2026,35,male,Agriculture; forestry and fishing,Agriculture,70207,25-35
+CIV,Côte d'Ivoire,2026,35,male,"Arts, entertainment and recreation",Services,1119,25-35
+CIV,Côte d'Ivoire,2026,35,male,Construction,Industry,11531,25-35
+CIV,Côte d'Ivoire,2026,35,male,Education,Services,7000,25-35
+CIV,Côte d'Ivoire,2026,35,male,"Electricity; gas, steam and air conditioning supply",Industry,365,25-35
+CIV,Côte d'Ivoire,2026,35,male,Financial and insurance activities,Services,1697,25-35
+CIV,Côte d'Ivoire,2026,35,male,Human health and social work activities,Services,3474,25-35
+CIV,Côte d'Ivoire,2026,35,male,Information and communication,Services,2191,25-35
+CIV,Côte d'Ivoire,2026,35,male,Manufacturing,Industry,15029,25-35
+CIV,Côte d'Ivoire,2026,35,male,Mining and quarrying,Industry,2009,25-35
+CIV,Côte d'Ivoire,2026,35,male,Other service activities,Services,6385,25-35
+CIV,Côte d'Ivoire,2026,35,male,"Professional, scientific and technical activities",Services,760,25-35
+CIV,Côte d'Ivoire,2026,35,male,Public administration and defence; compulsory social security,Services,5258,25-35
+CIV,Côte d'Ivoire,2026,35,male,Real estate activities,Services,221,25-35
+CIV,Côte d'Ivoire,2026,35,male,Wholesale and retail trade; repair of motor vehicles and motorcycles,Services,24833,25-35
